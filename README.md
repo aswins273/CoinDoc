@@ -1,2 +1,2 @@
 # CoinDoc
-To list crypto coins
+List crypto coins
